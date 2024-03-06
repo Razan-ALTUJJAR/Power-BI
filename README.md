@@ -13,5 +13,5 @@
 ### Vous trouverez :
 
 * Le fichier pbix
-* [Lien vers l'export PDF]()  
+* [Lien vers l'export PDF](https://github.com/Razan-ALTUJJAR/Power-BI/blob/main/ANALYSE%20des%20ventes.pdf)  
 
