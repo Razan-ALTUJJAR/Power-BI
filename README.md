@@ -1,12 +1,12 @@
 # Power-BI
 ![cartography](cartography/cartography.jpg)
 
-### Objectifs :
 
+### Objectifs :
 
 1. Construire d'un uml
 2. Préparation des données.
-3.Construction du rapport
+3.Construction du rapport.
 
 
 ***
