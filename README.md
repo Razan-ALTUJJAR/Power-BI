@@ -1,5 +1,6 @@
 # Power-BI
-![cartography](cartography/Capture d’écran 2024-03-06 232150.jpg)
+![cartography](cartography
+/Capture d’écran 2024-03-06 232150.jpg)
 
 ### Objectifs :
 
