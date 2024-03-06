@@ -1,5 +1,5 @@
 # Power-BI
-(Capture d’écran 2024-03-06 232150)[Capture d’écran 2024-03-06 232150.jpg]
+(Capture d’écran 2024-03-06 232150)[Capture d’écran 2024-03-06 232150.jpg !]
 ### Objectifs :
 
 
